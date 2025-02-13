@@ -1,0 +1,40 @@
+body{
+    background-color: #F3FFBD;
+    justify-items: center;
+}
+div.primero{
+    background-color: #FF1654;
+    
+    
+}
+div.segundo{
+
+    
+    
+}
+h1{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+p{
+  font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+p.uno{
+    background-color: #F0F3BD;
+
+}
+p.dos{
+    background-color: #247BA0;
+
+}
+p.tres{
+    background-color: #1A5E63;
+
+}
+
